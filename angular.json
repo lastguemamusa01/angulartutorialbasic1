@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-input-output-service-orute-httpclient-form-basic"
+    }
+  },
+  "defaultProject": "angular-input-output-service-orute-httpclient-form-basic",
+  "cli": {
+    "analytics": "56b2ef31-6af7-4797-8e03-5147bdfa080f"
+  }
 }
